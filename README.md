@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### About me
+
+I'm Dave Hay and I am in the process of changing career from Chemical Engineering to Data Science. I have a BEng in Chemical Engineering and an MSc in Process Technology and Management. I have been interested in CS and problem solving but have not pursued it as a career until now.
+
+#### My Current Work
+
+I’m currently learning Python and developing my coding and data science skills with the help of a CoGrammar bootcamp and multiple Udemy courses.
+
+#### My Projects
+
+Nothing yet 🤔 - Check back soon!
+  
 <!--
 **CriticallyDave/CriticallyDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
