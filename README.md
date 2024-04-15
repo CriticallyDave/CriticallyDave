@@ -9,8 +9,7 @@ I'm Dave Hay and I am in the process of changing career from Chemical Engineerin
 I’m currently learning Python and developing my coding and data science skills with the help of a CoGrammar bootcamp and multiple Udemy courses.
 
 #### My Projects
-
-Nothing yet 🤔 - Check back soon!
+[A webcam monitoring and email app](https://github.com/CriticallyDave/webcam-monitoring-email)
   
 <!--
 **CriticallyDave/CriticallyDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
