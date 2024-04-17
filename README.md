@@ -10,6 +10,7 @@ I’m currently learning Python and developing my coding and data science skills
 
 #### My Projects
 [A webcam monitoring and email app](https://github.com/CriticallyDave/webcam-monitoring-email)
+[A decimal to binary palindrome checker](https://github.com/CriticallyDave/dec-to-bin-palindrome)
   
 <!--
 **CriticallyDave/CriticallyDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
