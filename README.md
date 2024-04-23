@@ -12,6 +12,8 @@ I’m currently learning Python and developing my coding and data science skills
 [A webcam monitoring and email app](https://github.com/CriticallyDave/webcam-monitoring-email)
 
 [A decimal to binary palindrome checker](https://github.com/CriticallyDave/dec-to-bin-palindrome)
+
+[A basic student management system using SQL and a GUI](https://github.com/CriticallyDave/student-management-system)
   
 <!--
 **CriticallyDave/CriticallyDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
